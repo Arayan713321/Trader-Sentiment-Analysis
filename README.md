@@ -27,7 +27,7 @@ To analyze the measurable impact of market sentiment (Fear & Greed Index) on ind
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run data generation: `python scratch/generate_data.py`
-3. Execute Notebook: `Trader_Sentiment_Analysis.ipynb`
+3. Execute Notebook: `Trader_Performance_vs_Market_Sentiment.ipynb`
 
 ## Final Edge 🧠
 **“Findings indicate that trader psychology, influenced by market sentiment, plays a critical role in performance, but disciplined risk management is the key differentiator for consistent profitability.”**
